@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Firefox browser"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="75.927">
+  <properties />
+  
+  
+            <testcase name="Employee_01_Add_New" time="40.913" classname="com.orangehrm.pim.PIM_01_Employee_ExtentReport2" />
+                <testcase name="Employee_02_Upload_Avatar" time="16.842" classname="com.orangehrm.pim.PIM_01_Employee_ExtentReport2" />
+                <testcase name="Employee_03_Personal_Detail" time="18.172" classname="com.orangehrm.pim.PIM_01_Employee_ExtentReport2" />
+      
+</testsuite>
